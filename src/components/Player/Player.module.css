@@ -1,0 +1,9 @@
+.wrapper{
+    display: relative;
+    max-width: 720px;
+}
+
+.video{
+    width: 100%;
+    height: 100%;
+}
